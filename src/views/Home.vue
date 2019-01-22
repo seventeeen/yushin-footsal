@@ -2,7 +2,7 @@
   <div class="home">
     <div>여기가 홈입니다</div>
     <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="유신 어학반 풋살 포럼 ^^"/>
+    <HelloWorld msg="유신 어학반 풋살 포ㅋ럼ㅋ ^^;;;;;;;;"/>
     <HelloWorld msg="여기는 다른 페이지입니다"/>
   </div>
 </template>
